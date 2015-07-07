@@ -45,3 +45,40 @@ melon_avg_weight = {
     4: 1.5,
     5: 1.0,
 }
+
+melons = {
+    "Honeydew": {
+        "price": 0.99,
+        "seedless": True,
+        "rind_color": "green",
+        "flesh_color":"green",
+        "weight": 1.0},
+
+    "Crenshaw": {
+        "price": 2.00,
+        "seedless": False,
+        "rind_color": "green",
+        "flesh_color": "pink",
+        "weight": 0.5},
+
+    "Crane": {
+        "price": 2.50,
+        "seedless": False,
+        "rind_color": "green",
+        "flesh_color": "white",
+        "weight": 1.0},
+
+    "Casaba": {
+        "price": 2.50,
+        "seedless": False,
+        "rind_color": "green",
+        "flesh_color": "green",
+        "weight": 1.5},
+
+    "Cantaloupe": {
+        "price": 0.99,
+        "seedless": False,
+        "rind_color": "green",
+        "flesh_color": "orange",
+        "weight": 1.0},
+}
